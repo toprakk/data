@@ -1,4 +1,4 @@
-,Phrases;Hate Speech(0);Discriminative(1);Nötr(2);Value;
+,text_field;hate_speech(0);discriminative(1);nötr(2);value;
 Açık saçık giyinmek;12;56;32;1;
 Adam olmak;2;62;36;1;
 Adamın dibi;4;56;42;1;
